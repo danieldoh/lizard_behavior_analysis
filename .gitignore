@@ -6,6 +6,6 @@
 /src/prediction/*
 /src/runs/*
 /src/data/*
-/src/yolov8m-post.pt
-/src/yolov8n.p
+/src/yolov8m-pose.pt
+/src/yolov8n.pt
 
