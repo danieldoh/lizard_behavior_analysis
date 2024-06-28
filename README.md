@@ -56,4 +56,4 @@ python main.py -p -vn [video_name] -vd [video_date]
 cd src/prediction/[video_name]
 ```
 
-2. Check **Labelled** folder
+2. Check **labelled** folder
