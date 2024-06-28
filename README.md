@@ -17,7 +17,7 @@ Lizard Behavior Analysis Using an Aerosol Exposure Chamber Containing Cameras
 ## Model Download
 
 1. Download the trained model. And place it in the project directory.
-   - Link: https://drive.google.com/drive/folders/12U1MClQj8xj2cc6RqjN_ld0HKLZL31Ux?usp=sharing
+   - Link: https://drive.google.com/drive/folders/1KkVP36DtgpM1meiyPR128FrYLVYBh0K3?usp=sharing
 
 
 ## File Structure
