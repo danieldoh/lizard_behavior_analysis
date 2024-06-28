@@ -1,0 +1,11 @@
+/Lizard-Keypoints/*
+/test/*
+/train/*
+/valid/*
+/src/videos/*
+/src/prediction/*
+/src/runs/*
+/src/data/*
+/src/yolov8m-post.pt
+/src/yolov8n.p
+

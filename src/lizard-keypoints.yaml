@@ -1,0 +1,9 @@
+kpt_shape:
+- 15
+- 3
+names:
+  0: lizard_b
+  1: lizard_y
+path: /mnt/c/Users/user/Desktop/hdoh/lizard_keypoints/lizard.v6i.coco
+train: /mnt/c/Users/user/Desktop/hdoh/lizard_keypoints/lizard.v6i.coco/train/images
+val: /mnt/c/Users/user/Desktop/hdoh/lizard_keypoints/lizard.v6i.coco/valid/images

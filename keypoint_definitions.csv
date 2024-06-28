@@ -1,0 +1,16 @@
+Index,Name,Hex colour,Animal-pose
+0,head,ff0000,y
+1,neck,ff9933,y
+2,body1,3333cc,y
+3,lf_leg1,33cc33,y
+4,lf_leg2,33cc33,y
+5,rf_leg1,66ff33,y
+6,rf_leg2,66ff33,y
+7,body2,3333cc,y
+8,body3,3333cc,y
+9,lb_leg1,ff00ff,y
+10,lb_leg2,ff00ff,y
+11,rb_leg1,ff3399,y
+12,rb_leg2,ff3399,y
+13,mid_tail,ffff00,y
+14,tail,ffff00,y
