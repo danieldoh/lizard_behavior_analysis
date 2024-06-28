@@ -14,6 +14,12 @@ Lizard Behavior Analysis Using an Aerosol Exposure Chamber Containing Cameras
    pip install -r requirements.txt
    ```
 
+## Model Download
+
+1. Download the trained model. And place it in the project directory.
+   - Link: 
+
+
 ## File Structure
 
 1. If you need to train the network again with a new dataset
@@ -23,3 +29,28 @@ Lizard Behavior Analysis Using an Aerosol Exposure Chamber Containing Cameras
    - prediction
    - runs
    - videos
+
+## Video Preparation
+Place the video in the **videos** folder in the **src** folder.
+
+## Prediction
+
+Go to **src** folder:
+```sh
+cd src
+```
+
+Run:
+```sh
+python main.py -p -vn [video_name] -vd [video_date]
+```
+
+## Check Result
+
+1. Go to **prediction** folder:
+
+```sh
+cd src/prediction/[video_name]
+```
+
+2. Check **Labelled** folder
